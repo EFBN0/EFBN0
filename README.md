@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Erick Ferreira
-- 👀 I’m interested in Front-end jobs
+- 👀 I’m interested in Front-end Development
 - 🌱 I’m currently learning Front-end Development at Info Jr UFBA
 - 📫 How to reach me: erickferreira1319@gmail.com
 
